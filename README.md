@@ -6,3 +6,5 @@ Priliminary R file includes all the libraries and necessary preliminary codes re
 Regression and gravity model R file has all codes on the panel regressions and gravity models.
 Plot R file is of figures I made for visualizing. They are mentioned in my paper, though image file is not available here.
 
+# Data
+It also includes 2 data files, I scaped from various sources for my analysis.
