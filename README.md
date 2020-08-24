@@ -7,4 +7,9 @@ Regression and gravity model R file has all codes on the panel regressions and g
 Plot R file is of figures I made for visualizing. They are mentioned in my paper, though image file is not available here.
 
 # Data
-It also includes 2 data files, I scaped from various sources for my analysis.
+It also includes 2 data files, I scaped from various sources for my analysis. Most data is extracted from [Trade Map](https://www.trademap.org/). However, data on distance and landlocked countries is taken from other source. The [paper](https://arubhardwaj.github.io/Documents/JCGS_Paper.pdf) as a detailed table on sources and description.
+
+# Plot
+Some plots made here are extra, here!!!!
+
+Feel free reach me, if there is anything related to his code. Just drop me an [email](mailto:arubhardwaj@hotmail.com), and I will get back soon
