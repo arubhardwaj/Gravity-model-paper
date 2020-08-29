@@ -12,4 +12,4 @@ It also includes 2 data files, I scaped from various sources for my analysis. Mo
 # Plot
 Some plots made here are extra, here!!!!
 
-Feel free reach me, if there is anything related to his code. Just drop me an [email](mailto:arubhardwaj@hotmail.com), and I will get back soon
+Feel free reach me, if there is anything related to his code. Just drop me an [email](mailto:aruecon@gmail.com), and I will get back soon
