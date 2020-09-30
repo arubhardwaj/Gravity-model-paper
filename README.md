@@ -13,6 +13,6 @@ It also includes 2 data files, I scaped from various sources for my analysis. Mo
 
 
 # Plot
-Some plots made here are extra, here!!!!
+Some plots made here are extra: which are not in the paper!!!!
 
 Feel free reach me, if there is anything related to his code. Just drop me an [email](mailto:aruecon@gmail.com), and I will get back soon
