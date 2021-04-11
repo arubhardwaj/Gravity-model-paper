@@ -15,4 +15,4 @@ It also includes 2 data files, I scaped from various sources for my analysis. Mo
 # Plot
 Some plots made here are extra: which are not in the paper!!!!
 
-Feel free reach me, if there is anything related to his code. Just drop me an [email](mailto:arubhardwaj@tuta.io), or raise any problem in [issues](https://github.com/arubhardwaj/Gravity-model-paper)
+Feel free reach me, if there is anything related to his code. Just raise an [issue](https://github.com/arubhardwaj/Gravity-model-paper)
