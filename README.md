@@ -1,5 +1,5 @@
 # Gravity model paper
-This repository includes codes, from R, for the paper I wrote in August, 2020. The paper can be found on my [website](https://arubhardwaj.github.io/files/JCGS_Paper.pdf) (*it is not an updated text!!*).
+This repository includes codes, from R, for the paper I wrote in August, 2020. The paper is now a part of the book [Financing for Development 2030 Global Agenda and Post Covid19 Challenges](https://books.google.it/books?id=RKVKEAAAQBAJ&pg=PA149&lpg=PA149&dq=aru+bhardwaj+gravity+model+china+and+global+south&source=bl&ots=aMoClj9jdi&sig=ACfU3U3DvL5F3D4vmnLTZEa1P5bLtZKLOA&hl=en&sa=X&ved=2ahUKEwjwmsLN87D1AhXRSfEDHXupDp8Q6AF6BAglEAM#v=onepage&q=aru%20bhardwaj%20gravity%20model%20china%20and%20global%20south&f=false).
 
 # Files
 Priliminary R file includes all the libraries and necessary preliminary codes required to write for preparing the data. 
